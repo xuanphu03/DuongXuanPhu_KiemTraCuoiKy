@@ -8,7 +8,7 @@
         android:id="@+id/tvProfile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Your Name: John Doe"
+        android:text="Duong Xuan Phu -22115053122330"
         android:textSize="20sp"
         android:textStyle="bold" />
 </FrameLayout>
